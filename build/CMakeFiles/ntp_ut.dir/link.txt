@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ntp_ut.dir/ut/ntp_ut.cpp.o  -o ntp_ut libntp.a 
