@@ -1,2 +1,0 @@
-/home/nlbutts/projects/libNTP/build/CMakeFiles/ntp_ut.dir
-/home/nlbutts/projects/libNTP/build/CMakeFiles/ntp.dir

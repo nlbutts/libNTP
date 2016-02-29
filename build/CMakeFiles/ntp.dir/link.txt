@@ -1,2 +1,0 @@
-/usr/bin/ar qc libntp.a  CMakeFiles/ntp.dir/src/ntp.cpp.o
-/usr/bin/ranlib libntp.a
