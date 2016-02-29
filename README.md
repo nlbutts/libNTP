@@ -1,0 +1,2 @@
+# libNTP
+Simple NTP library
