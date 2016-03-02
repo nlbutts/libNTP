@@ -1,4 +1,5 @@
 #include "ntp.h"
+#include <time.h>
 
 NTP::NTP(uint32_t ntpTime[2])
 {

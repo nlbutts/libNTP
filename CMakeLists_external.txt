@@ -10,3 +10,5 @@ ExternalProject_Add(
 )
 
 include_directories(${CMAKE_CURRENT_BINARY_DIR}/gmock/include)
+link_directories(${CMAKE_CURRENT_BINARY_DIR}/gmock/lib)
+link_libraries(gmock_main)
